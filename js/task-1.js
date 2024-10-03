@@ -8,7 +8,6 @@ const createSlug = (text) => {
         }
     }
     return updatedText.join("");
-
 }
     
 const slugify = (title) => {
